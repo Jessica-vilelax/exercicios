@@ -13,7 +13,7 @@
         do{
             conta ++ // soma 1
             soma = soma + num // acumulador
-            num = Number(prompt("Informe outro número. /n Digite um número negativo para encerrar"))
+            num = Number(prompt("Informe outro número. Digite um número negativo para encerrar"))
 
             num = Number
         }
